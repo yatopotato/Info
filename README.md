@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yatopotato
+- 👋 Hi, I’m @Deepak Rawat
 - 👀 I’m interested in ... Running, Hiking, Gaming
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, HTML, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
